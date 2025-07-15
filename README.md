@@ -27,6 +27,7 @@ library(writexl)
 library(readxl)
 library(arsenal)
 library(data.table)
+```
 
 ⚠️ plyr and reshape are detached if loaded to avoid conflicts with dplyr and tidyverse.
 
